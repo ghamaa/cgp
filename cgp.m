@@ -13,7 +13,7 @@ function d = cgp(x, y, fs_sig)
 %
 %
 % References: 
-%  [1] A. Alghamdi, W. Y. Chan, D. Fogerty and J. Jensen, "Correlation based 
+%  [1] A. Alghamdi, L. Moen, W. Y. Chan, D. Fogerty and J. Jensen, "Correlation based 
 %      glimpse proportion index," WASPAA 2023.
 %
 % Copyright 2023, Ahmed Alghamdi, a.alghamdi@queensu.ca, Queen's University
