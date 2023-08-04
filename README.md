@@ -20,5 +20,5 @@ The input speech signals are assumed to be time-aligned and of the same length.
 ## References
 If you use CGP, please cite the reference below:
 ```
-[1] A. Alghamdi, W. Y. Chan, D. Fogerty, and J. Jensen, "Correlation based glimpse proportion index," WASPAA 2023.
+[1] A. Alghamdi, L. Moen, W. Y. Chan, D. Fogerty, and J. Jensen, "Correlation based glimpse proportion index," WASPAA 2023.
 ```
